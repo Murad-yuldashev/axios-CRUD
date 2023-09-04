@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Fake",
+      "email": "fike@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Yuldoshev ",
+      "email": "nma29@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Stive",
+      "email": "stiv@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Mike",
+      "email": "mikes@gmail.com",
+      "id": 8
+    }
+  ]
+}
